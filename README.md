@@ -13,8 +13,9 @@ I'm a second-year BCA student from Delhi, passionate about software development 
 - Email: [Raghavkush2015@gmail.com](mailto:Raghavkush2015@gmail.com)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/raghav-kushwaha) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
-- [GitHub](https://github.com/raghav-kushwaha) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-kushwaha)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=flat&logo=github&logoColor=white)](https://github.com/raghav-kushwaha)
+
 
 
 ## Languages and Tools
